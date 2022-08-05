@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahuljoshua77](https://github.com/rahuljoshua77)
 
-- 💬 Ask me about **selenium, quality assurance, web automatio**
+- 💬 Ask me about **selenium, quality assurance, web automation**
 
 - 📫 How to reach me **rahuljoshua77@gmail.com**
 
