@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **freelancing web automation - RPA - scraper**
 
-- 🤝 I’m currently mentoring **mentor people peoples to learn automation test**
+- 🤝 I’m currently mentoring **peoples to learn automation test**
 
 - 👯 I’m looking to collaborate on **test engineer, quality assurance and automation tools.**
 
