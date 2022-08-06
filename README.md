@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate test engineer/quality assurance from Indonesia</h3>
 
-- 🔭 I’m currently working **freelancing web automation - RPA - scraper**
+- 🔭 I’m currently freelancing **web automation - RPA - scraper**
 
 - 🤝 I’m currently mentoring **peoples to learn automation test**
 
